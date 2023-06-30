@@ -6,3 +6,7 @@ edition = "2021"
 [[bin]]
 name = "multiples_of_3_or_5"
 path = "src/multiples_of_3_or_5.rs"
+
+[[bin]]
+name = "even_fibonacci_numbers"
+path = "src/even_fibonacci_numbers.rs"
