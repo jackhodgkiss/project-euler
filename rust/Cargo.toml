@@ -10,3 +10,7 @@ path = "src/multiples_of_3_or_5.rs"
 [[bin]]
 name = "even_fibonacci_numbers"
 path = "src/even_fibonacci_numbers.rs"
+
+[[bin]]
+name = "largest_prime_factor"
+path = "src/largest_prime_factor.rs"
